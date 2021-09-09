@@ -1,0 +1,16 @@
+C:\git\EjemploIF\obj\Debug\net5.0\EjemploIF.csproj.AssemblyReference.cache
+C:\git\EjemploIF\obj\Debug\net5.0\EjemploIF.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\EjemploIF\obj\Debug\net5.0\EjemploIF.AssemblyInfoInputs.cache
+C:\git\EjemploIF\obj\Debug\net5.0\EjemploIF.AssemblyInfo.cs
+C:\git\EjemploIF\obj\Debug\net5.0\EjemploIF.csproj.CoreCompileInputs.cache
+C:\git\EjemploIF\bin\Debug\net5.0\EjemploIF.exe
+C:\git\EjemploIF\bin\Debug\net5.0\EjemploIF.deps.json
+C:\git\EjemploIF\bin\Debug\net5.0\EjemploIF.runtimeconfig.json
+C:\git\EjemploIF\bin\Debug\net5.0\EjemploIF.runtimeconfig.dev.json
+C:\git\EjemploIF\bin\Debug\net5.0\EjemploIF.dll
+C:\git\EjemploIF\bin\Debug\net5.0\ref\EjemploIF.dll
+C:\git\EjemploIF\bin\Debug\net5.0\EjemploIF.pdb
+C:\git\EjemploIF\obj\Debug\net5.0\EjemploIF.dll
+C:\git\EjemploIF\obj\Debug\net5.0\ref\EjemploIF.dll
+C:\git\EjemploIF\obj\Debug\net5.0\EjemploIF.pdb
+C:\git\EjemploIF\obj\Debug\net5.0\EjemploIF.genruntimeconfig.cache
