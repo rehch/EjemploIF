@@ -27,6 +27,8 @@ namespace EjemploIF
                 Console.WriteLine("el desuentoe es normal");
             }
 
+            Console.WriteLine("Linea Anterior");
+
             Console.WriteLine("Ulitma linea");
 
         }
