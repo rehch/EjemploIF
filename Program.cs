@@ -12,8 +12,24 @@ namespace EjemploIF
             
             ValorDeLaPrenda =  Convert.ToDecimal( ValorenPantalla);
 
-            //int descuento = ValorDeLaPrenda > 150 ? 12 : 5;
             int descuento = 0;
+
+            int HoraDeHoy = DateTime.Now.Hour;
+            bool GerenteAutorizo = false;
+
+            if( (HoraDeHoy >= 20 && ValorDeLaPrenda > 150) || GerenteAutorizo)
+            {
+              descuento = 12;   
+            }
+            else
+            {
+                descuento = 0;   
+            }
+
+            
+
+            //int descuento = ValorDeLaPrenda > 150 ? 12 : 5;
+            
 
             if(ValorDeLaPrenda > 150)
             {
